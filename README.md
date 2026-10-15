@@ -1,9 +1,9 @@
-# Amazon KDP --- Advanced Java Project / Business Research Assignment
+# Amazon KDP --- Advanced Java Project (Book Publishing)
 
 ## Project Overview
 
-**Project Title:** Amazon KDP (Kindle Direct Publishing)\
-**Project Type:** Advanced Java Project / Business Research Assignment\
+**Project Title:** Amazon KDP (Kindle Direct Publishing)\Book Publishing
+**Project Type:** Advanced Java Project 
 **Submission Group:** Group 12
 
 **Team Members:**
